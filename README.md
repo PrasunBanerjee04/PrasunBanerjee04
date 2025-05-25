@@ -72,6 +72,6 @@ Currently seeking internships in <strong>quantitative research</strong>, <strong
 <h2>Let's Connect</h2>
 
 <ul>
-  <li><a href="https://www.linkedin.com/in/prasunbanerjee/">LinkedIn</a></li>
-  <li>Email: <code>prasunbanerjee [at] gatech.edu</code></li>
+  <li><a href="[https://www.linkedin.com/in/prasunbanerjee04/](https://www.linkedin.com/in/prasunbanerjee04/)">LinkedIn</a></li>
+  <li>Email: <code>prasun.banerjee04@gmail.com</code></li>
 </ul>
