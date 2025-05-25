@@ -70,6 +70,7 @@ Currently seeking internships in <strong>quantitative finance</strong>, <strong>
 </ul>
 
 
+
 ---
 
 <h2>Let's Connect</h2>
