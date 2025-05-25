@@ -67,6 +67,23 @@ Currently seeking internships in <strong>quantitative finance</strong>, <strong>
   <li><strong>Machine Learning:</strong> Statistical learning and optimization, time-series modeling, MLOps & production pipelines, Retrieval-Augmented Generation (RAG)</li>
 </ul>
 
+<h2>Links</h2>
+
+<p align="left">
+  <a href="https://github.com/gt-quant/research" target="_blank">
+    <img src="https://img.shields.io/badge/Quant_Research_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://tinyurl.com/25tysp63" target="_blank">
+    <img src="https://img.shields.io/badge/SECOORA_Project-0077b6?style=for-the-badge&logo=earth&logoColor=white" />
+  </a>
+  <a href="https://fintech.gatech.edu/#/" target="_blank">
+    <img src="https://img.shields.io/badge/FinTech_Lab-003057?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://www.cearhub.org/" target="_blank">
+    <img src="https://img.shields.io/badge/CEAR_Hub-6a0572?style=for-the-badge&logo=academia&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 <h2>Let's Connect</h2>
