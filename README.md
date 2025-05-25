@@ -63,10 +63,10 @@ Currently seeking internships in <strong>quantitative finance</strong>, <strong>
 <h2>Links</h2>
 
 <ul>
-  <li><a href="https://github.com/gt-quant/research" target="_blank">Quant Sector Research Repository</a> – Research in quantitative finance, execution models, and alpha discovery</li>
-  <li><a href="https://tinyurl.com/25tysp63" target="_blank">SECOORA Data Challenge Project</a> – Flood-aware real estate valuation system (1st Place Winner)</li>
-  <li><a href="https://fintech.gatech.edu/#/" target="_blank">Georgia Tech FinTech Lab</a> – Research group focused on data-driven financial innovation</li>
-  <li><a href="https://www.cearhub.org/" target="_blank">CEAR Hub</a> – Center for Economic Analysis of Risk</li>
+  <li><a href="https://github.com/gt-quant/research" target="_blank">Quant Sector Research Repository</a> – Quant Sector Research Team Repo</li>
+  <li><a href="https://tinyurl.com/25tysp63" target="_blank">SECOORA Data Challenge Project</a> – SECOORA Data Challenge Winner</li>
+  <li><a href="https://fintech.gatech.edu/#/" target="_blank">Georgia Tech FinTech Lab</a> – Georgia Tech FinTech Lab</li>
+  <li><a href="https://www.cearhub.org/" target="_blank">CEAR Hub</a> – Coastal Equity and Resillience Hub</li>
 </ul>
 
 
