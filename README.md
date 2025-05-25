@@ -7,7 +7,7 @@
 <h2>About Me</h2>
 
 <p>
-I’m a Computer Science and Mathematics student at Georgia Tech, specializing in <strong>Machine Learning</strong>, <strong>Computational Finance</strong>, and <strong>Mathematical Modeling</strong>.
+I’m a Computer Science and Mathematics student at Georgia Tech, specializing in <strong>Machine Learning</strong>, <strong>Computational Finance</strong>, and <strong>Mathematical Modeling</strong>. Some associated projects are pinned below. 
 </p>
 
 <p>
