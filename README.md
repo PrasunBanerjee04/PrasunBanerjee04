@@ -13,14 +13,14 @@ I’m a Computer Science and Mathematics student at Georgia Tech, specializing i
 <p>
 I conduct research across:
 <ul>
-  <li>High-frequency <strong>market microstructure modeling</strong> and trading signal discovery</li>
+  <li>High-frequency <strong>market microstructure modeling</strong> and arbitrage techniques</li>
   <li><strong>Natural Language Processing</strong> to extract structural and linguistic signals from IPO filings</li>
   <li><strong>Flood-aware real estate valuation</strong> using geospatial and sensor data (🏆 SECOORA Data Challenge Winner)</li>
 </ul>
 </p>
 
 <p>
-Currently seeking internships in <strong>quantitative research</strong>, <strong>algorithmic trading</strong>, <strong>data science</strong>, and <strong>software engineering</strong>.
+Currently seeking internships in <strong>quantitative finance</strong>, <strong>data science</strong>, and <strong>software engineering</strong>.
 </p>
 
 ---
