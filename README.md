@@ -13,9 +13,10 @@ I’m a Computer Science and Mathematics student at Georgia Tech, specializing i
 <p>
 I conduct research across:
 <ul>
-  <li>High-frequency <strong>market microstructure modeling</strong> and arbitrage techniques</li>
-  <li><strong>Natural Language Processing</strong> to extract structural and linguistic signals from IPO filings</li>
-  <li><strong>Flood-aware real estate valuation</strong> using geospatial and sensor data (🏆 SECOORA Data Challenge Winner)</li>
+  <li><a href="https://github.com/gt-quant/research" target="_blank"><strong>High-frequency market microstructure modeling</strong></a> and arbitrage techniques</li>
+  <li><a href="https://fintech.gatech.edu" target="_blank"><strong>Natural Language Processing</strong></a> to extract structural and linguistic signals from IPO filings</li>
+  <li><a href="https://tinyurl.com/25tysp63" target="_blank"><strong>Flood-aware real estate valuation</strong></a> using geospatial and sensor data (🏆 SECOORA Data Challenge Winner)</li>
+  <li><a href="https://github.com/gtfintechlab/ConfReady" target="_blank"><strong>Retrieval-Augmented Generation (RAG) systems</strong></a> for intelligent academic assistance</li>
 </ul>
 </p>
 
@@ -60,16 +61,12 @@ Currently seeking internships in <strong>quantitative finance</strong>, <strong>
 
 ---
 
-<h2>Links</h2>
+<h2>Research & Technical Interests</h2>
 
 <ul>
-  <li><a href="https://github.com/gt-quant/research" target="_blank">Quant Sector Research Repository</a> – Quant Sector Research Team Repo</li>
-  <li><a href="https://tinyurl.com/25tysp63" target="_blank">SECOORA Data Challenge Project</a> – SECOORA Data Challenge Winner</li>
-  <li><a href="https://fintech.gatech.edu/#/" target="_blank">Georgia Tech FinTech Lab</a> – Georgia Tech FinTech Lab</li>
-  <li><a href="https://www.cearhub.org/" target="_blank">CEAR Hub</a> – Coastal Equity and Resillience Hub</li>
+  <li><strong>Quantitative Finance:</strong> Derivatives pricing, options theory, market making, arbitrage, alpha research, high-frequency execution models</li>
+  <li><strong>Machine Learning:</strong> Statistical learning and optimization, time-series modeling, MLOps & production pipelines, Retrieval-Augmented Generation (RAG)</li>
 </ul>
-
-
 
 ---
 
