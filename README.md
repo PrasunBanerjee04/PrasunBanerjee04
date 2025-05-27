@@ -16,7 +16,7 @@ I conduct research across:
   <li><a href="https://github.com/gt-quant/research" target="_blank"><strong>High-frequency market microstructure modeling</strong></a> and arbitrage techniques</li>
   <li><a href="https://fintech.gatech.edu" target="_blank"><strong>Natural Language Processing</strong></a> to extract structural and linguistic signals from IPO filings</li>
   <li><a href="https://tinyurl.com/25tysp63" target="_blank"><strong>Flood-aware real estate valuation</strong></a> using geospatial and sensor data (🏆 SECOORA Data Challenge Winner)</li>
-  <li><a href="https://github.com/gtfintechlab/ConfReady" target="_blank"><strong>Retrieval-Augmented Generation (RAG) systems</strong></a> for intelligent academic assistance</li>
+  <li><a href="https://github.com/gtfintechlab/ConfReady" target="_blank"><strong>Retrieval-Augmented Generation (RAG) systems</strong></a>/li>
 </ul>
 </p>
 
@@ -64,7 +64,7 @@ Currently seeking internships in <strong>quantitative finance</strong>, <strong>
 <h2>Research & Technical Interests</h2>
 
 <ul>
-  <li><strong>Quantitative Finance:</strong> Derivatives pricing, options theory, market making, arbitrage, alpha research, high-frequency execution models</li>
+  <li><strong>Quantitative Finance:</strong> Derivatives pricing, options theory, market making, arbitrage, alpha research, high-frequency trading</li>
   <li><strong>Machine Learning:</strong> Statistical learning and optimization, time-series modeling, MLOps & production pipelines, Retrieval-Augmented Generation (RAG)</li>
 </ul>
 
