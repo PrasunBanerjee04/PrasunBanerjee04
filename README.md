@@ -68,7 +68,7 @@ Currently seeking internships in <strong>quantitative finance</strong>, <strong>
 
 <ul>
   <li><strong>Quantitative Finance:</strong> Derivatives pricing, options theory, market making, arbitrage, alpha research, high-frequency trading</li>
-  <li><strong>Machine Learning:</strong> Statistical learning and optimization, time-series modeling, MLOps & production pipelines, Retrieval-Augmented Generation (RAG)</li>
+  <li><strong>Machine Learning:</strong> Statistical learning & optimization, time-series modeling, MLOps & deployment, Retrieval-Augmented Generation (RAG)</li>
   <li><strong>Data Science:</strong> Data mining & Pattern recognition, statistical data analysis, preprocessing and imputation methods</li>
   <li><strong>Data Engineering:</strong> Scalable pipeline development, data infrastructure, relational databases</li>
 </ul>
