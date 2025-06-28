@@ -1,6 +1,6 @@
 <h1 align="center">Prasun Banerjee</h1>
 
-<p align="center"><i>CS + Math @ Georgia Tech | Researcher in Quantitative Finance & Machine Learning | Undergraduate Teaching Assistant</i></p>
+<p align="center"><i>CS + Math @ Georgia Tech | Researcher in Applied NLP, Computational Finance, Machine Learning | Undergraduate Teaching Assistant</i></p>
 
 ---
 
