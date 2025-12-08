@@ -21,7 +21,7 @@ I conduct research across:
 </p>
 
 <p>
-Currently seeking internships in <strong>quantitative finance</strong>, <strong>data science</strong>, and <strong>software engineering</strong>.
+Currently seeking internships in <strong>quantitative finance</strong>, <strong>trading</strong>, and <strong>data</strong>.
 </p>
 
 ---
