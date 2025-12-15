@@ -24,10 +24,9 @@ I conduct research across:
 Currently seeking internships in <strong>quantitative finance</strong>, <strong>trading</strong>, and <strong>data</strong>.
 </p>
 
----
 <h2>Publications</h2>
 ConfReady: https://arxiv.org/abs/2408.04675
----
+
 
 <h2>Tech Stack</h2>
 
