@@ -10,20 +10,12 @@
 Applied Machine Learning and Mathematical Modeling at Georgia Tech. Experience and interests in derivatives trading, quantitative research and data. Some associated projects are pinned below. 
 </p>
 
-<p>
-I conduct research across:
-<ul>
-  <li><a href="https://github.com/gt-quant/research" target="_blank"><strong>Quantitative Research</strong></a> focusing on market-microstructure modeling, statistical arbitrage and alpha-research</li>
-  <li><a href="https://fintech.gatech.edu" target="_blank"><strong>Natural Language Processing</strong></a> to extract structural and linguistic signals from IPO filings</li>
-  <li><a href="https://tinyurl.com/25tysp63" target="_blank"><strong>Flood-aware real estate valuation</strong></a> using geospatial and sensor data (🏆 SECOORA Data Challenge Winner)</li>
-  <li><a href="https://github.com/gtfintechlab/ConfReady" target="_blank"><strong>Retrieval-Augmented Generation (RAG) systems</strong></a></li>
-</ul>
-</p>
-
 
 <h2>Publications</h2>
-IPO-Mine: https://github.com/gtfintechlab/IPO-Mine 
-ConfReady: https://arxiv.org/abs/2408.04675
+<ul>
+<li>IPO-Mine: https://github.com/gtfintechlab/IPO-Mine</li>
+<li>ConfReady: https://arxiv.org/abs/2408.04675</li>
+</ul>
 
 
 <h2>Tech Stack</h2>
