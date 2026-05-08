@@ -1,13 +1,13 @@
 <h1 align="center">Prasun Banerjee</h1>
 
-<p align="center"><i>CS + Math @ Georgia Tech | Researcher in Applied NLP & Quant Finance| Undergraduate Teaching Assistant</i></p>
+<p align="center"><i>CS + Math @ Georgia Tech </i></p>
 
 ---
 
 <h2>About Me</h2>
 
 <p>
-I’m a Computer Science and Mathematics student at Georgia Tech, specializing in <strong>Machine Learning</strong>, <strong>Computational Finance</strong>, and <strong>Mathematical Modeling</strong>. Some associated projects are pinned below. 
+Applied Machine Learning and Mathematical Modeling at Georgia Tech. Experience and interests in derivatives trading, quantitative research and data. Some associated projects are pinned below. 
 </p>
 
 <p>
@@ -20,11 +20,9 @@ I conduct research across:
 </ul>
 </p>
 
-<p>
-Currently seeking internships in <strong>quantitative finance</strong>, <strong>trading</strong>, and <strong>data</strong>.
-</p>
 
 <h2>Publications</h2>
+IPO-Mine: https://github.com/gtfintechlab/IPO-Mine 
 ConfReady: https://arxiv.org/abs/2408.04675
 
 
