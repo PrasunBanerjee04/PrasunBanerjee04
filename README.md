@@ -71,6 +71,6 @@ Applied Machine Learning and Mathematical Modeling at Georgia Tech. Experience a
 
 <ul>
   <li><a href="https://www.linkedin.com/in/prasunbanerjee04/">LinkedIn</a></li>
-  <li><a href="https://medium.com/@prasun.banerjee04/"></li>
+  <li><a href="https://medium.com/@prasun.banerjee04">Medium</a></li>
   <li>Email: <code>prasun.banerjee04@gmail.com</code></li>
 </ul>
