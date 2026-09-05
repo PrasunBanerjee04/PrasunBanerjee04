@@ -59,7 +59,7 @@ Georgia Tech ML and mathematical modeling background with front-office trading d
 <h2>Research & Technical Interests</h2>
 
 <ul>
-  <li><strong>Quantitative Finance:</strong> Derivatives pricing, options theory, market making, arbitrage, alpha research, high-frequency trading</li>
+  <li><strong>Financial Trading:</strong> Energy and Commodity Derivatives, FTRs, Natural Gas, Quantitative Power Trading</li>
   <li><strong>Machine Learning:</strong> Statistical learning & optimization, time-series modeling, MLOps & deployment, Retrieval-Augmented Generation</li>
   <li><strong>Data Science:</strong> Data mining & Pattern recognition, statistical data analysis, preprocessing and imputation methods</li>
   <li><strong>Data Engineering:</strong> Scalable pipeline development, data infrastructure, relational databases</li>
