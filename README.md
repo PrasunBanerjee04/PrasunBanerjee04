@@ -7,7 +7,7 @@
 <h2>About Me</h2>
 
 <p>
-Applied Machine Learning and Mathematical Modeling at Georgia Tech. Experience and interests in derivatives trading, quantitative research and data. I am particularly interested in systematic commodities trading, especially in Power and Gas derivatives markets. Some associated projects are pinned below. 
+Georgia Tech ML and mathematical modeling background with front-office trading desk experience and contributions to papers at top-conferences. Seeking Systematic/Discretionary Trading or Quant Research roles focused on power, natural gas, and FTR markets.
 </p>
 
 
