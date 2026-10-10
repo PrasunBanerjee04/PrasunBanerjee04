@@ -14,11 +14,9 @@ Georgia Tech ML and mathematical modeling background with front-office trading d
 
 <h2>Research & Technical Interests</h2>
 
-<ul>
-  <li><strong>Financial Trading:</strong> 
-    
-    Energy and Commodity Derivatives, FTRs, Natural Gas, Quantitative Power Trading</li>
-</ul>
+**Financial Trading:** 
+
+Energy and Commodity Derivatives, FTRs, Natural Gas, Quantitative Power Trading
 
 ---
 
