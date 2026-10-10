@@ -1,6 +1,6 @@
 <h1 align="center">Prasun Banerjee</h1>
 
-<p align="center"><i>Commodities Trading | Computer Science @ Georgia Tech </i></p>
+<p align="center"> Commodities Trading | Computer Science @ Georgia Tech </p>
 
 ---
 
