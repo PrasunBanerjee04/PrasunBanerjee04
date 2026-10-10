@@ -14,9 +14,16 @@ Georgia Tech ML and mathematical modeling background with front-office trading d
 
 <h2>Research & Technical Interests</h2>
 
-**Financial Trading:** 
+**Financial / Physical Commodity Trading:** 
 
-Energy and Commodity Derivatives, FTRs, Natural Gas, Quantitative Power Trading
+**Economic Dispatch Modeling:** 
+
+**DC/AC Optimal Power Flow:** 
+
+**Hydrological / Streamflow Modeling:** 
+
+**Machine Learning driven Weather Modeling:** 
+
 
 ---
 
