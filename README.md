@@ -1,6 +1,6 @@
 <h1 align="center">Prasun Banerjee</h1>
 
-<p align="center"><i>CS + Math @ Georgia Tech </i></p>
+<p align="center"><i>Commodities Trading | Computer Science @ Georgia Tech </i></p>
 
 ---
 
@@ -11,12 +11,6 @@ Georgia Tech ML and mathematical modeling background with front-office trading d
 </p>
 
 
-<h2>Publications</h2>
-<ul>
-<li>IPO-Mine: https://github.com/gtfintechlab/IPO-Mine</li>
-<li>ConfReady: https://arxiv.org/abs/2408.04675</li>
-</ul>
-
 
 <h2>Research & Technical Interests</h2>
 
@@ -25,6 +19,14 @@ Georgia Tech ML and mathematical modeling background with front-office trading d
   <li><strong>Machine Learning:</strong> Statistical learning & optimization, time-series modeling, MLOps & deployment, Retrieval-Augmented Generation</li>
   <li><strong>Data Science:</strong> Data mining & Pattern recognition, statistical data analysis, preprocessing and imputation methods</li>
   <li><strong>Data Engineering:</strong> Scalable pipeline development, data infrastructure, relational databases</li>
+</ul>
+
+---
+
+<h2>Publications</h2>
+<ul>
+<li>IPO-Mine: https://github.com/gtfintechlab/IPO-Mine</li>
+<li>ConfReady: https://arxiv.org/abs/2408.04675</li>
 </ul>
 
 ---
