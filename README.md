@@ -12,13 +12,19 @@ Georgia Tech ML and mathematical modeling background with front-office trading d
 
 
 
-<h2>Research & Technical Interests</h2>
+<h2>Research & Professional Interests</h2>
 
 **Financial / Physical Commodity Trading:** 
 
+Power, Natural Gas and Crude derivatives trading, physical power trading and asset optimization. 
+
 **Economic Dispatch Modeling:** 
 
+Linear and Integer optimization for simulating ISO grid economic dispatch for accurate mathematical power pricing. 
+
 **DC/AC Optimal Power Flow:** 
+
+Modeling the physical flow of power across grid structured according to AC Power Flow models, as well as DC simplifications. This is very important for trading Financial Transmission Rights (FTRs). 
 
 **Hydrological / Streamflow Modeling:** 
 
