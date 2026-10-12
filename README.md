@@ -21,7 +21,7 @@ Georgia Tech ML and mathematical modeling background with front-office trading d
 <p>Linear and integer optimization for simulating ISO grid economic dispatch for accurate mathematical power pricing.</p>
 
 <h3>DC/AC Optimal Power Flow</h3>
-<p>Modeling physical grid power flows using AC formulations and DC approximations—critical for Financial Transmission Rights (FTR) trading.</p>
+<p>Modeling physical grid power flows using AC formulations and DC approximations, critical for Financial Transmission Rights (FTR) trading.</p>
 
 <h3>Hydrological / Streamflow Modeling</h3>
 <p>Short- and medium-term runoff/reservoir forecasting for hydro-heavy regions and dispatch impact.</p>
