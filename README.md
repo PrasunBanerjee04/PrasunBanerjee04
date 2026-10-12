@@ -15,7 +15,7 @@ Georgia Tech ML and mathematical modeling background with front-office trading d
 <h2>Research & Professional Interests</h2>
 
 <h3>Financial / Physical Commodity Trading</h3>
-<p>Power, Natural Gas and Crude derivatives trading, physical power trading, and asset optimization.</p>
+<p>Power, Natural Gas and Crude derivatives trading, physical power trading, and asset optimization. Some of my specific interests include US/EU Power Futures, Natural Gas and Crude volatility/options trading, as well as mathematical optimization problems in optimal battery dispatch.</p>
 
 <p align="center">
   <img src="assets/battery.png" alt="battery" width="80%" />
