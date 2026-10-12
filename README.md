@@ -15,14 +15,14 @@ Georgia Tech ML and mathematical modeling background with front-office trading d
 <h2>Research & Professional Interests</h2>
 
 <h3>Financial / Physical Commodity Trading</h3>
-<p>Power, Natural Gas and Crude derivatives trading, physical power trading, and asset optimization. Some of my specific interests include US/EU Power Futures, Natural Gas and Crude volatility/options trading, as well as mathematical optimization problems in optimal battery dispatch.</p>
 
-<p align="center">
-  <img src="assets/battery.png" alt="battery" width="80%" />
-</p>
+- a
+- b
+- c
+
 
 <h3>Economic Dispatch Modeling</h3>
-<p>Linear and integer optimization for simulating ISO grid economic dispatch for accurate mathematical power pricing.</p>
+<p>Linear and integer optimization for simulating ISO grid economic dispatch for accurate mathematical power pricing. </p>
 
 <h3>DC/AC Optimal Power Flow</h3>
 <p>Modeling physical grid power flows using AC formulations and DC approximations, critical for Financial Transmission Rights (FTR) trading.</p>
