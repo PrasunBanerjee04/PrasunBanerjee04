@@ -17,6 +17,10 @@ Georgia Tech ML and mathematical modeling background with front-office trading d
 <h3>Financial / Physical Commodity Trading</h3>
 <p>Power, Natural Gas and Crude derivatives trading, physical power trading, and asset optimization.</p>
 
+<p align="center">
+  <img src="assets/ice_connect_agriculture_screen.jpg" alt="ICE Connect Agriculture Screen" width="80%" />
+</p>
+
 <h3>Economic Dispatch Modeling</h3>
 <p>Linear and integer optimization for simulating ISO grid economic dispatch for accurate mathematical power pricing.</p>
 
