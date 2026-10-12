@@ -47,11 +47,3 @@ Georgia Tech ML and mathematical modeling background with front-office trading d
 </ul>
 
 ---
-
-<h2>Featured Highlights</h2>
-
-<!-- Replace 'YOUR_IMAGE_PATH_OR_URL' with either a direct URL or a relative path in your repo (e.g., ./assets/diagram.png) -->
-<p align="center">
-  <img src="YOUR_IMAGE_PATH_OR_URL" alt="Project Preview 1" width="48%" />
-  <img src="YOUR_IMAGE_PATH_OR_URL" alt="Project Preview 2" width="48%" />
-</p>
