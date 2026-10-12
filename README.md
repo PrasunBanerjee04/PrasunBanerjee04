@@ -16,22 +16,33 @@ Georgia Tech ML and mathematical modeling background with front-office trading d
 
 <h3>Financial / Physical Commodity Trading</h3>
 
-- a
-- b
-- c
-
+- Financial Transmission Rights (FTR) Trading in nodal power markets 
+- Natural Gas and Power derivatives and virtuals trading across US/EU markets
+- Systematic Crude Oil and Natural Gas volatility/options trading strategies
+- Physical Liquid Natural Gas, Crude and Freight trading
+  
 
 <h3>Economic Dispatch Modeling</h3>
-<p>Linear and integer optimization for simulating ISO grid economic dispatch for accurate mathematical power pricing. </p>
+
+- Efficient Integer Linear programming algorithms
+- Modeling physical characteristics and bidding behavior of power generation (CCGT, SCGT etc.) 
+- Supply stack, thermal dispatch, unit commitment models for nodal/zonal power markets 
 
 <h3>DC/AC Optimal Power Flow</h3>
-<p>Modeling physical grid power flows using AC formulations and DC approximations, critical for Financial Transmission Rights (FTR) trading.</p>
+
+- Modeling AC Optimal Power Flow and DC Optimal Power Flow 
 
 <h3>Hydrological / Streamflow Modeling</h3>
-<p>Short- and medium-term runoff/reservoir forecasting for hydro-heavy regions and dispatch impact.</p>
 
-<h3>Machine Learning-Driven Weather Modeling</h3>
-<p>High-resolution numerical weather prediction downscaling and probabilistic load/generation scenario generation.</p>
+- Forecasts of hydropower production based on statistical weather / precipitation models
+- Applications of Stochastic Programming in optimal hydropower scheduling and dispatch optimization
+- Machine Learning for River streamflow and runoff modeling 
+
+<h3>Weather and Atmospheric Modeling</h3>
+
+- Numerical and statistical weather prediction
+- Applications of Machine Learning in weather modeling 
+- High-Performance/Scientific Computing in weather data infrastructure
 
 ---
 
