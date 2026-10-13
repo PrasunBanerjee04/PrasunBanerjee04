@@ -18,7 +18,8 @@ Georgia Tech ML and mathematical modeling background with front-office trading d
 
 - Financial Transmission Rights (FTR) Trading in nodal power markets 
 - Natural Gas and Power derivatives and virtuals trading across US/EU markets
-- Systematic Crude Oil and Natural Gas volatility/options trading strategies
+- Systematic short-term power Power trading strategies 
+- Crude Oil and Natural Gas volatility/options trading strategies
 - Physical Liquid Natural Gas, Crude and Freight trading
   
 
